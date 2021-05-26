@@ -1,2 +1,2 @@
-# name-card
+# Name Card
 My personal name card
